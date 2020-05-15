@@ -1,0 +1,21 @@
+/*
+$Date: 2009/10/25 03:30:18 $
+*/
+
+.hidden {
+    display: none;
+}
+
+.float_left {
+    float: left;
+}
+
+.float_right {
+    float: right;
+}
+
+.clear_both {
+    clear: both;
+    /* use <div> instead <br> for IE6/IE7 */
+}
+
