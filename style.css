@@ -19,3 +19,6 @@ $Date: 2009/10/25 03:30:18 $
     /* use <div> instead <br> for IE6/IE7 */
 }
 
+div.a {
+    width: 800px;
+}
