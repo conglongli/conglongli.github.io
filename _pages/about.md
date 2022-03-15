@@ -14,10 +14,16 @@ I received Ph.D. in Computer Science from [Carnegie Mellon University](https://w
 
 Publications
 ======
-1. [Curriculum Learning: A Regularization Method for Efficient and Stable Billion-Scale GPT Model Pre-Training.](paper/cl-arxiv.pdf)
+1. [Maximizing Communication Efficiency for Large-scale Training via 0/1 Adam.](https://arxiv.org/abs/2202.06009)
+  * Yucheng Lu, **Conglong Li**, Minjia Zhang, Christopher De Sa, Yuxiong He.
+  * *[arXiv preprint arXiv:2202.06009](https://arxiv.org/abs/2202.06009).* \[[tutorial](https://www.deepspeed.ai/tutorials/zero-one-adam/)\]
+1. [DeepSpeed-MoE: Advancing Mixture-of-Experts Inference and Training to Power Next-Generation AI Scale.](https://arxiv.org/abs/2201.05596)
+  * Samyam Rajbhandari, **Conglong Li**, Zhewei Yao, Minjia Zhang, Reza Yazdani Aminabadi, Ammar Ahmad Awan, Jeff Rasley, Yuxiong He.
+  * *[arXiv preprint arXiv:2201.05596](https://arxiv.org/abs/2201.05596).* \[[tutorial](https://www.deepspeed.ai/tutorials/mixture-of-experts-nlg/)\]
+1. [Curriculum Learning: A Regularization Method for Efficient and Stable Billion-Scale GPT Model Pre-Training.](https://arxiv.org/abs/2108.06084)
   * **Conglong Li**, Minjia Zhang, Yuxiong He.
   * *[arXiv preprint arXiv:2108.06084](https://arxiv.org/abs/2108.06084).* \[[tutorial](https://www.deepspeed.ai/tutorials/curriculum-learning/)\]
-1. [1-bit LAMB: Communication Efficient Large-Scale Large-Batch Training with LAMB's Convergence Speed.](paper/1bitlamb-arxiv.pdf)
+1. [1-bit LAMB: Communication Efficient Large-Scale Large-Batch Training with LAMB's Convergence Speed.](https://arxiv.org/abs/2104.06069)
   * **Conglong Li**, Ammar Ahmad Awan, Hanlin Tang, Samyam Rajbhandari, Yuxiong He.
   * *[arXiv preprint arXiv:2104.06069](https://arxiv.org/abs/2104.06069).* \[[tutorial](https://www.deepspeed.ai/tutorials/onebit-lamb/)\]
 1. [1-bit Adam: Communication Efficient Large-Scale Training with Adam’s Convergence Speed.](paper/1bitadam-icml2021.pdf)
@@ -54,5 +60,5 @@ Publications
   * **Conglong Li**, Alan L. Cox.
   * In *7th Workshop on Large-Scale Distributed Systems and Middleware (LADIS 2013).*
 
-Last updated: 2021/12/28
+Last updated: 2022/03/14
 
