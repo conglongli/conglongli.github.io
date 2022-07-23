@@ -25,7 +25,7 @@ Publications
   * *[arXiv preprint arXiv:2202.06009](https://arxiv.org/abs/2202.06009).* \[[tutorial](https://www.deepspeed.ai/tutorials/zero-one-adam/)\]
 1. [DeepSpeed-MoE: Advancing Mixture-of-Experts Inference and Training to Power Next-Generation AI Scale.](https://proceedings.mlr.press/v162/rajbhandari22a.html)
   * Samyam Rajbhandari, **Conglong Li**, Zhewei Yao, Minjia Zhang, Reza Yazdani Aminabadi, Ammar Ahmad Awan, Jeff Rasley, Yuxiong He.
-  * In *[ICML 2022](https://proceedings.mlr.press/v162/rajbhandari22a.html).* \[[tutorial](https://www.deepspeed.ai/tutorials/mixture-of-experts-nlg/)\]\[[arxiv](https://arxiv.org/abs/2201.05596\]
+  * In *[ICML 2022](https://proceedings.mlr.press/v162/rajbhandari22a.html).* \[[tutorial](https://www.deepspeed.ai/tutorials/mixture-of-experts-nlg/)\]\[[arxiv](https://arxiv.org/abs/2201.05596)\]
 1. [Curriculum Learning: A Regularization Method for Efficient and Stable Billion-Scale GPT Model Pre-Training.](https://arxiv.org/abs/2108.06084)
   * **Conglong Li**, Minjia Zhang, Yuxiong He.
   * *[arXiv preprint arXiv:2108.06084](https://arxiv.org/abs/2108.06084).* \[[tutorial](https://www.deepspeed.ai/tutorials/curriculum-learning/)\]
