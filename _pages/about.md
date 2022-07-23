@@ -14,21 +14,27 @@ I received Ph.D. in Computer Science from [Carnegie Mellon University](https://w
 
 Publications
 ======
+1. [Extreme Compression for Pre-trained Transformers Made Simple and Efficient.](https://arxiv.org/abs/2206.01859)
+  * Xiaoxia Wu, Zhewei Yao, Minjia Zhang, **Conglong Li**, Yuxiong He.
+  * *[arXiv preprint arXiv:2206.01859](https://arxiv.org/abs/2206.01859).* \[[tutorial](https://www.deepspeed.ai/tutorials/model-compression/#3-tutorial-for-xtc-simple-yet-effective-compression-pipeline-for-extreme-compression)\]
+1. [ZeroQuant: Efficient and Affordable Post-Training Quantization for Large-Scale Transformers.](https://arxiv.org/abs/2206.01861)
+  * Zhewei Yao, Reza Yazdani Aminabadi, Minjia Zhang, Xiaoxia Wu, **Conglong Li**, Yuxiong He.
+  * *[arXiv preprint arXiv:2206.01861](https://arxiv.org/abs/2206.01861).* \[[tutorial](https://www.deepspeed.ai/tutorials/model-compression/#2-tutorial-for-zeroquant-efficient-and-affordable-post-training-quantization)\]
 1. [Maximizing Communication Efficiency for Large-scale Training via 0/1 Adam.](https://arxiv.org/abs/2202.06009)
   * Yucheng Lu, **Conglong Li**, Minjia Zhang, Christopher De Sa, Yuxiong He.
   * *[arXiv preprint arXiv:2202.06009](https://arxiv.org/abs/2202.06009).* \[[tutorial](https://www.deepspeed.ai/tutorials/zero-one-adam/)\]
-1. [DeepSpeed-MoE: Advancing Mixture-of-Experts Inference and Training to Power Next-Generation AI Scale.](https://arxiv.org/abs/2201.05596)
+1. [DeepSpeed-MoE: Advancing Mixture-of-Experts Inference and Training to Power Next-Generation AI Scale.](https://proceedings.mlr.press/v162/rajbhandari22a.html)
   * Samyam Rajbhandari, **Conglong Li**, Zhewei Yao, Minjia Zhang, Reza Yazdani Aminabadi, Ammar Ahmad Awan, Jeff Rasley, Yuxiong He.
-  * *[arXiv preprint arXiv:2201.05596](https://arxiv.org/abs/2201.05596).* \[[tutorial](https://www.deepspeed.ai/tutorials/mixture-of-experts-nlg/)\]
+  * In *[ICML 2022](https://proceedings.mlr.press/v162/rajbhandari22a.html).* \[[tutorial](https://www.deepspeed.ai/tutorials/mixture-of-experts-nlg/)\]\[[arxiv](https://arxiv.org/abs/2201.05596\]
 1. [Curriculum Learning: A Regularization Method for Efficient and Stable Billion-Scale GPT Model Pre-Training.](https://arxiv.org/abs/2108.06084)
   * **Conglong Li**, Minjia Zhang, Yuxiong He.
   * *[arXiv preprint arXiv:2108.06084](https://arxiv.org/abs/2108.06084).* \[[tutorial](https://www.deepspeed.ai/tutorials/curriculum-learning/)\]
 1. [1-bit LAMB: Communication Efficient Large-Scale Large-Batch Training with LAMB's Convergence Speed.](https://arxiv.org/abs/2104.06069)
   * **Conglong Li**, Ammar Ahmad Awan, Hanlin Tang, Samyam Rajbhandari, Yuxiong He.
   * *[arXiv preprint arXiv:2104.06069](https://arxiv.org/abs/2104.06069).* \[[tutorial](https://www.deepspeed.ai/tutorials/onebit-lamb/)\]
-1. [1-bit Adam: Communication Efficient Large-Scale Training with Adam’s Convergence Speed.](paper/1bitadam-icml2021.pdf)
+1. [1-bit Adam: Communication Efficient Large-Scale Training with Adam’s Convergence Speed.](http://proceedings.mlr.press/v139/tang21a.html)
   * Hanlin Tang, Shaoduo Gan, Ammar Ahmad Awan, Samyam Rajbhandari, **Conglong Li**, Xiangru Lian, Ji Liu, Ce Zhang, Yuxiong He.
-  * In *[ICML 2021](http://proceedings.mlr.press/v139/tang21a.html).* \[[tutorial](https://www.deepspeed.ai/tutorials/onebit-adam/)\]
+  * In *[ICML 2021](http://proceedings.mlr.press/v139/tang21a.html).* \[[tutorial](https://www.deepspeed.ai/tutorials/onebit-adam/)\]\[[arxiv](https://arxiv.org/abs/2102.02888)\]
 1. [Learned Adaptive Accuracy-Cost Optimization for Machine Learning Systems.](paper/thesis-2020.pdf)
   * **Conglong Li**.
   * *[Ph.D. Thesis](http://reports-archive.adm.cs.cmu.edu/anon/2020/abstracts/20-105.html).*
@@ -60,5 +66,5 @@ Publications
   * **Conglong Li**, Alan L. Cox.
   * In *7th Workshop on Large-Scale Distributed Systems and Middleware (LADIS 2013).*
 
-Last updated: 2022/03/14
+Last updated: 2022/07/23
 
