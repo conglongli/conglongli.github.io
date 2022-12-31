@@ -33,7 +33,7 @@ Publications
 1. [The Stability-Efficiency Dilemma: Investigating Sequence Length Warmup for Training GPT Models.](https://openreview.net/forum?id=JpZ5du_Kdh)
   * **Conglong Li**, Minjia Zhang, Yuxiong He.
   * In *[NeurIPS 2022](https://openreview.net/forum?id=JpZ5du_Kdh).* \[[tutorial](https://www.deepspeed.ai/tutorials/curriculum-learning/)\]\[[arxiv](https://arxiv.org/abs/2108.06084)\]
-  * (This paper was titled "Curriculum Learning: A Regularization Method for Efficient and Stable Billion-Scale GPT Model Pre-Training" in early arxiv version.)
+  * (This paper was previously titled "Curriculum Learning: A Regularization Method for Efficient and Stable Billion-Scale GPT Model Pre-Training" in early arxiv preprint versions.)
 1. [XTC: Extreme Compression for Pre-trained Transformers Made Simple and Efficient.](https://openreview.net/forum?id=xNeAhc2CNAl)
   * Xiaoxia Wu, Zhewei Yao, Minjia Zhang, **Conglong Li**, Yuxiong He.
   * In *[NeurIPS 2022](https://openreview.net/forum?id=xNeAhc2CNAl).* \[[tutorial](https://www.deepspeed.ai/tutorials/model-compression/#3-tutorial-for-xtc-simple-yet-effective-compression-pipeline-for-extreme-compression)\]\[[arxiv](https://arxiv.org/abs/2206.01859)\]
