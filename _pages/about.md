@@ -23,12 +23,12 @@ Publications
 1. [BLOOM: A 176B-Parameter Open-Access Multilingual Language Model.](https://arxiv.org/abs/2211.05100)
   * Teven Le Scao et al. (391 authors. I contributed to code and infrastructure to train BLOOM on the Jean Zay supercomputer as a member of the Engineering team.)
   * *[arXiv preprint arXiv:2211.05100](https://arxiv.org/abs/2211.05100).*
-1. [Maximizing Communication Efficiency for Large-scale Training via 0/1 Adam.](https://arxiv.org/abs/2202.06009)
+1. [Maximizing Communication Efficiency for Large-scale Training via 0/1 Adam.](https://openreview.net/forum?id=-CefY2EOupj)
   * Yucheng Lu, **Conglong Li**, Minjia Zhang, Christopher De Sa, Yuxiong He.
-  * *[arXiv preprint arXiv:2202.06009](https://arxiv.org/abs/2202.06009).* \[[tutorial](https://www.deepspeed.ai/tutorials/zero-one-adam/)\]
-1. [1-bit LAMB: Communication Efficient Large-Scale Large-Batch Training with LAMB's Convergence Speed.](https://arxiv.org/abs/2104.06069)
+  * In *[ICLR 2023](https://openreview.net/forum?id=-CefY2EOupj).* \[[tutorial](https://www.deepspeed.ai/tutorials/zero-one-adam/)\]\[[arxiv](https://arxiv.org/abs/2202.06009)\]
+1. [1-bit LAMB: Communication Efficient Large-Scale Large-Batch Training with LAMB's Convergence Speed.](https://ieeexplore.ieee.org/abstract/document/10106313)
   * **Conglong Li**, Ammar Ahmad Awan, Hanlin Tang, Samyam Rajbhandari, Yuxiong He.
-  * In *[HiPC 2022](https://hipc.org/).* \[[tutorial](https://www.deepspeed.ai/tutorials/onebit-lamb/)\]\[[arxiv](https://arxiv.org/abs/2104.06069)\]
+  * In *[HiPC 2022](https://ieeexplore.ieee.org/abstract/document/10106313).* \[[tutorial](https://www.deepspeed.ai/tutorials/onebit-lamb/)\]\[[arxiv](https://arxiv.org/abs/2104.06069)\]
   * *[HiPC 2022 Best Paper Award (2 out of 34)](https://web.archive.org/web/20221222201832/https://hipc.org/advance-program/).*
 1. [The Stability-Efficiency Dilemma: Investigating Sequence Length Warmup for Training GPT Models.](https://openreview.net/forum?id=JpZ5du_Kdh)
   * **Conglong Li**, Minjia Zhang, Yuxiong He.
@@ -78,5 +78,5 @@ Publications
   * **Conglong Li**, Alan L. Cox.
   * In *7th Workshop on Large-Scale Distributed Systems and Middleware (LADIS 2013).*
 
-Last updated: 2022/12/30
+Last updated: 2023/04/28
 
