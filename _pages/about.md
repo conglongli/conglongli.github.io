@@ -14,6 +14,15 @@ I received Ph.D. in Computer Science from [Carnegie Mellon University](https://w
 
 Publications
 ======
+1. [DeepSpeed4Science Initiative: Enabling Large-Scale Scientific Discovery through Sophisticated AI System Technologies.](https://arxiv.org/abs/2310.04610)
+  * Shuaiwen Leon Song, Bonnie Kruft, Minjia Zhang, **Conglong Li** et al.
+  * *[arXiv preprint arXiv:2310.04610](https://arxiv.org/abs/2310.04610).* \[[tutorial](https://www.deepspeed.ai/deepspeed4science/)\]\[[blog](https://www.microsoft.com/en-us/research/blog/announcing-the-deepspeed4science-initiative-enabling-large-scale-scientific-discovery-through-sophisticated-ai-system-technologies/)\]
+1. [DeepSpeed-VisualChat: Multi-Round Multi-Image Interleave Chat via Multi-Modal Causal Attention.](https://arxiv.org/abs/2309.14327)
+  * Zhewei Yao, Xiaoxia Wu, **Conglong Li**, Minjia Zhang, Heyang Qin, Olatunji Ruwase, Ammar Ahmad Awan, Samyam Rajbhandari, Yuxiong He.
+  * *[arXiv preprint arXiv:2309.14327](https://arxiv.org/abs/2309.14327).* \[[tutorial](https://github.com/microsoft/DeepSpeedExamples/tree/master/applications/DeepSpeed-VisualChat)\]\[[blog](https://github.com/microsoft/DeepSpeed/blob/master/blogs/deepspeed-visualchat/10-03-2023/README.md)\]
+1. [DeepSpeed-Chat: Easy, Fast and Affordable RLHF Training of ChatGPT-like Models at All Scales.](https://arxiv.org/abs/2308.01320)
+  * Zhewei Yao, Reza Yazdani Aminabadi, Olatunji Ruwase, Samyam Rajbhandari, Xiaoxia Wu, Ammar Ahmad Awan, Jeff Rasley, Minjia Zhang, **Conglong Li**, Connor Holmes, Zhongzhu Zhou, Michael Wyatt, Molly Smith, Lev Kurilenko, Heyang Qin, Masahiro Tanaka, Shuai Che, Shuaiwen Leon Song, Yuxiong He.
+  * *[arXiv preprint arXiv:2308.01320](https://arxiv.org/abs/2308.01320).* \[[tutorial](https://github.com/microsoft/DeepSpeedExamples/tree/master/applications/DeepSpeed-Chat)\]\[[blog](https://github.com/microsoft/DeepSpeed/blob/master/blogs/deepspeed-chat/README.md)\]
 1. [DeepSpeed Data Efficiency: Improving Deep Learning Model Quality and Training Efficiency via Efficient Data Sampling and Routing.](https://arxiv.org/abs/2212.03597)
   * **Conglong Li**, Zhewei Yao, Xiaoxia Wu, Minjia Zhang, Yuxiong He.
   * *[arXiv preprint arXiv:2212.03597](https://arxiv.org/abs/2212.03597).* \[[tutorial](https://www.deepspeed.ai/tutorials/data-efficiency/)\]\[[blog](https://www.deepspeed.ai/2022/12/11/data-efficiency.html)\]
@@ -78,5 +87,5 @@ Publications
   * **Conglong Li**, Alan L. Cox.
   * In *7th Workshop on Large-Scale Distributed Systems and Middleware (LADIS 2013).*
 
-Last updated: 2023/04/28
+Last updated: 2023/10/31
 
