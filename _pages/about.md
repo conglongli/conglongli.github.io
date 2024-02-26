@@ -8,30 +8,30 @@ redirect_from:
   - /about.html
 ---
 
-I’m currently a Senior Researcher at [Microsoft DeepSpeed team](https://www.microsoft.com/en-us/research/project/deepspeed/), working on improving performance and efficiency of deep learning training and inference ([deepspeed.ai](https://www.deepspeed.ai/), [github repo](https://github.com/microsoft/DeepSpeed)). In general, I work on improving performance and resource efficiency of all kinds of computer systems via experimental research, data analysis, and algorithm/policy optimizations. My broad research interests lead to experience and publications in many areas including deep learning, similarity search, distributed caching systems, networks, and computer architecture.
+I’m currently a Senior Researcher at [Microsoft DeepSpeed team](https://www.microsoft.com/en-us/research/project/deepspeed/), working on improving performance and efficiency of deep learning training and inference ([deepspeed.ai](https://www.deepspeed.ai/), [github repo](https://github.com/microsoft/DeepSpeed)). I have a mixed research background between systems and AI, and I worked in many areas including deep learning, similarity search, distributed caching systems, networks, and computer architecture. Regardless of the area, the way I do research is always similar: identify inefficiencies by in-depth analysis, and fix it by algorithm and policy designs. Particularly in the deep learning area, in the past few years at DeepSpeed team I worked on improving the communication efficiency via compression, improving computation efficiency via MoE modeling, and improving data efficiency via curriculum learning.
 
 I received Ph.D. in Computer Science from [Carnegie Mellon University](https://www.cmu.edu/) in 2020, advised by [Professor David G. Andersen](https://www.cs.cmu.edu/~dga/). I received both B.S. (2013) and M.S. (2014) in Computer Science from [Rice University](https://www.rice.edu/), advised by [Professor Alan L. Cox](https://profiles.rice.edu/faculty/alan-l-cox) and supported by the Graduate Research Fellowship.
 
 Publications
 ======
-1. [DeepSpeed4Science Initiative: Enabling Large-Scale Scientific Discovery through Sophisticated AI System Technologies.](https://arxiv.org/abs/2310.04610)
-  * Shuaiwen Leon Song, Bonnie Kruft, Minjia Zhang, **Conglong Li** et al.
-  * *[arXiv preprint arXiv:2310.04610](https://arxiv.org/abs/2310.04610).* \[[tutorial](https://www.deepspeed.ai/deepspeed4science/)\]\[[blog](https://www.microsoft.com/en-us/research/blog/announcing-the-deepspeed4science-initiative-enabling-large-scale-scientific-discovery-through-sophisticated-ai-system-technologies/)\]
 1. [DeepSpeed-VisualChat: Multi-Round Multi-Image Interleave Chat via Multi-Modal Causal Attention.](https://arxiv.org/abs/2309.14327)
   * Zhewei Yao, Xiaoxia Wu, **Conglong Li**, Minjia Zhang, Heyang Qin, Olatunji Ruwase, Ammar Ahmad Awan, Samyam Rajbhandari, Yuxiong He.
   * *[arXiv preprint arXiv:2309.14327](https://arxiv.org/abs/2309.14327).* \[[tutorial](https://github.com/microsoft/DeepSpeedExamples/tree/master/applications/DeepSpeed-VisualChat)\]\[[blog](https://github.com/microsoft/DeepSpeed/blob/master/blogs/deepspeed-visualchat/10-03-2023/README.md)\]
 1. [DeepSpeed-Chat: Easy, Fast and Affordable RLHF Training of ChatGPT-like Models at All Scales.](https://arxiv.org/abs/2308.01320)
   * Zhewei Yao, Reza Yazdani Aminabadi, Olatunji Ruwase, Samyam Rajbhandari, Xiaoxia Wu, Ammar Ahmad Awan, Jeff Rasley, Minjia Zhang, **Conglong Li**, Connor Holmes, Zhongzhu Zhou, Michael Wyatt, Molly Smith, Lev Kurilenko, Heyang Qin, Masahiro Tanaka, Shuai Che, Shuaiwen Leon Song, Yuxiong He.
   * *[arXiv preprint arXiv:2308.01320](https://arxiv.org/abs/2308.01320).* \[[tutorial](https://github.com/microsoft/DeepSpeedExamples/tree/master/applications/DeepSpeed-Chat)\]\[[blog](https://github.com/microsoft/DeepSpeed/blob/master/blogs/deepspeed-chat/README.md)\]
-1. [DeepSpeed Data Efficiency: Improving Deep Learning Model Quality and Training Efficiency via Efficient Data Sampling and Routing.](https://arxiv.org/abs/2212.03597)
-  * **Conglong Li**, Zhewei Yao, Xiaoxia Wu, Minjia Zhang, Yuxiong He.
-  * *[arXiv preprint arXiv:2212.03597](https://arxiv.org/abs/2212.03597).* \[[tutorial](https://www.deepspeed.ai/tutorials/data-efficiency/)\]\[[blog](https://www.deepspeed.ai/2022/12/11/data-efficiency.html)\]
 1. [Random-LTD: Random and Layerwise Token Dropping Brings Efficient Training for Large-scale Transformers.](https://arxiv.org/abs/2211.11586)
   * Zhewei Yao, Xiaoxia Wu, **Conglong Li**, Connor Holmes, Minjia Zhang, Cheng Li, Yuxiong He.
   * *[arXiv preprint arXiv:2211.11586](https://arxiv.org/abs/2211.11586).* \[[tutorial](https://www.deepspeed.ai/tutorials/data-efficiency/#2-random-layerwise-token-dropping-random-ltd)\]
 1. [BLOOM: A 176B-Parameter Open-Access Multilingual Language Model.](https://arxiv.org/abs/2211.05100)
   * Teven Le Scao et al. (391 authors. I contributed to code and infrastructure to train BLOOM on the Jean Zay supercomputer as a member of the Engineering team.)
   * *[arXiv preprint arXiv:2211.05100](https://arxiv.org/abs/2211.05100).*
+1. [DeepSpeed Data Efficiency: Improving Deep Learning Model Quality and Training Efficiency via Efficient Data Sampling and Routing.](https://arxiv.org/abs/2212.03597)
+  * **Conglong Li**, Zhewei Yao, Xiaoxia Wu, Minjia Zhang, Yuxiong He.
+  * In *[AAAI 2024](https://aaai.org/aaai-conference/aaai-24-technical-program/).* \[[tutorial](https://www.deepspeed.ai/tutorials/data-efficiency/)\]\[[blog](https://www.deepspeed.ai/2022/12/11/data-efficiency.html)\]\[[arxiv](https://arxiv.org/abs/2212.03597)\]
+1. [DeepSpeed4Science Initiative: Enabling Large-Scale Scientific Discovery through Sophisticated AI System Technologies.](https://arxiv.org/abs/2310.04610)
+  * Shuaiwen Leon Song, Bonnie Kruft, Minjia Zhang, **Conglong Li** et al.
+  * In *[NeurIPS 2023 AI for Science Workshop](https://openreview.net/forum?id=kQyP5u5ccw).* \[[tutorial](https://www.deepspeed.ai/deepspeed4science/)\]\[[blog](https://www.microsoft.com/en-us/research/blog/announcing-the-deepspeed4science-initiative-enabling-large-scale-scientific-discovery-through-sophisticated-ai-system-technologies/)\]\[[arxiv](https://arxiv.org/abs/2310.04610)\]
 1. [Maximizing Communication Efficiency for Large-scale Training via 0/1 Adam.](https://openreview.net/forum?id=-CefY2EOupj)
   * Yucheng Lu, **Conglong Li**, Minjia Zhang, Christopher De Sa, Yuxiong He.
   * In *[ICLR 2023](https://openreview.net/forum?id=-CefY2EOupj).* \[[tutorial](https://www.deepspeed.ai/tutorials/zero-one-adam/)\]\[[arxiv](https://arxiv.org/abs/2202.06009)\]
@@ -87,5 +87,5 @@ Publications
   * **Conglong Li**, Alan L. Cox.
   * In *7th Workshop on Large-Scale Distributed Systems and Middleware (LADIS 2013).*
 
-Last updated: 2023/10/31
+Last updated: 2024/02/26
 
