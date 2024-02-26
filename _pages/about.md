@@ -27,7 +27,7 @@ Publications
   * Teven Le Scao et al. (391 authors. I contributed to code and infrastructure to train BLOOM on the Jean Zay supercomputer as a member of the Engineering team.)
   * *[arXiv preprint arXiv:2211.05100](https://arxiv.org/abs/2211.05100).*
 1. [DeepSpeed Data Efficiency: Improving Deep Learning Model Quality and Training Efficiency via Efficient Data Sampling and Routing.](https://arxiv.org/abs/2212.03597)
-  * **Conglong Li**, Zhewei Yao, Xiaoxia Wu, Minjia Zhang, Yuxiong He.
+  * **Conglong Li**, Zhewei Yao, Xiaoxia Wu, Minjia Zhang, Connor Holmes, Cheng Li, Yuxiong He.
   * In *[AAAI 2024](https://aaai.org/aaai-conference/aaai-24-technical-program/).* \[[tutorial](https://www.deepspeed.ai/tutorials/data-efficiency/)\]\[[blog](https://www.deepspeed.ai/2022/12/11/data-efficiency.html)\]\[[arxiv](https://arxiv.org/abs/2212.03597)\]
 1. [DeepSpeed4Science Initiative: Enabling Large-Scale Scientific Discovery through Sophisticated AI System Technologies.](https://arxiv.org/abs/2310.04610)
   * Shuaiwen Leon Song, Bonnie Kruft, Minjia Zhang, **Conglong Li** et al.
