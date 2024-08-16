@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Conglong Li"
 title_separator          : "-"
 name                     : &name "Conglong Li"
-description              : &description "Senior Researcher at Microsoft"
+description              : &description "Senior Research Scientist at Google DeepMind"
 url                      : https://conglongli.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "conglongli.github.io"
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Conglong Li"
+  name             : "Conglong Li (李葱茏/リー ツォンロン)"
   avatar           : "photo-conglongli-small.jpg"
-  bio              : "Senior Researcher at Microsoft | Systems + AI | CMU PhD"
-  location         : "Bellevue, WA, USA"
+  bio              : "Senior Research Scientist at Google DeepMind | Systems + AI | CMU PhD"
+  location         : "Tokyo, Japan"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=nXUS0gYAAAAJ"
@@ -115,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  msr              : "conglli"
+  msr              :
   cv               : "cv_conglongli.pdf"
 
 
